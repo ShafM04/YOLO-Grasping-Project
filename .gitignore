@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+
+# IDE files
+.vscode/
+
+# Large data and model folders/files
+dataset/
+runs/
+*.pt
+yolov8n.pt
